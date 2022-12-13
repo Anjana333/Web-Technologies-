@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+   background-color: rgb(250, 235, 217);
+    
+}
+
+
+p{
+    color:rgb(108, 112, 217);
+    padding: 20px;
+    line-height: 25px;
+    font-family: "comic Sans Ms", Arial;
+    
+   
+}
+
+
+nav a{
+    color: darkred;
+    text-decoration:dotted;
+   font-weight:bold ;
+}
+nav a:hover{
+    background-color: black;
+    color:white;
+    cursor: pointer;
+    transition: .4s;
+}
+footer{
+    clear: both;
+   
+    color:rgb(147, 22, 91);
+    padding-bottom: 10px;
+    text-align: center;
+}
+h2{
+    color:brown;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    padding-top: 20px;
+}
+ol{
+    color:darkgreen;
+   
+    line-height: 23px;
+    
+}
+table{
+    color:indigo;
+   
+    border-color: lightsalmon;
+}
+h1{
+    text-align: center;
+    color: navy;
+}
+image {
+    align-content: center;
+}
+form{
+   color:indigo
